@@ -1,5 +1,5 @@
 # Last modified: Wed, 10 Jun 2020 22:06:26 +0000
-FROM mcr.microsoft.com/powershell:7.0.1-ubuntu-18.04
+FROM mcr.microsoft.com/powershell:7.0.3-ubuntu-18.04
 
 
 # Upgrade all packages to latest
